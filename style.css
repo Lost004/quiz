@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+.container{
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+i{
+    font-size: 100%;
+    margin-top: 40%;
+    margin-left: 40%;
+    text-align: center;
+
+}
+.txt{
+font-size: 20px;
+text-align: center;
+margin-top: 50%;
+}
+.txt2{
+text-align: center;
+margin-top: 30%;
+}
+.icon-txt{
+    display: flex;
+    margin-left: 70%;
+    width: 100%;
+   
+}
